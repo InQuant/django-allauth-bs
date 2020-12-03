@@ -1,0 +1,2 @@
+django-allauth
+git+https://github.com/InQuant/django-forms-bs
