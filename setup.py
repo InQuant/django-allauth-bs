@@ -45,7 +45,7 @@ setup(
     zip_safe=False,
     include_package_data=True,
     package_data={'': ['README.md'], },
-    install_requires=['django', 'django-allauth'],
+    install_requires=['django-allauth', 'django-forms-bs@git+https://github.com/InQuant/django-forms-bs.git'],
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment',
